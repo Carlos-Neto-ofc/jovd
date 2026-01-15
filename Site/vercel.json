@@ -2,7 +2,7 @@
 "rewrites": [
 {
     "source": "/entrar",
-    "destination": "/Entrar/entrar.html"
+    "destination": "/entrar.html"
 }
 ]
 }
